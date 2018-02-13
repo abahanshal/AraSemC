@@ -11,5 +11,5 @@ Run mathimatical.jar
 Test the program using files in examples folder.
 <br/>
 <h2><b> To create the file read by the program</b> </h2> <br/>
-1- Collect from a corpus the 5-gram context words. <br/>
+1- Collect from a corpus the 5-gram context words  for different time periods. <br/>
 2- List them in an Excel sheet in the same format as the files in examples folder.
